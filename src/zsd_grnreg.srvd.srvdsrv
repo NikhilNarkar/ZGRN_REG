@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Defination for GRN REG'
+define service ZSD_GRNREG {
+  expose ZCE_GRN;
+}

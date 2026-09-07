@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "GRN Register"
+  },
+  "ui5AppDetails": {
+    "appId": "zgrnreg"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_1163645D591EFA329BECBF5182C77430EDED6E0F_TM",
+    "semanticObject": "GRN",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_1163645D591EFA329BECBF5182C77430EDED6E0F_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "GRN Register",
+        "icon": "sap-icon://customer-order-entry"
+      }
+    }
+  ]
+}
